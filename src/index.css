@@ -1,0 +1,13 @@
+body {
+  margin: 1rem 1.5rem;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
